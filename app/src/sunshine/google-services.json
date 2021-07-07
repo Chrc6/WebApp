@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947399998204",
+    "project_id": "sunshineaid-72f0d",
+    "storage_bucket": "sunshineaid-72f0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947399998204:android:4b701144320538ba117579",
+        "android_client_info": {
+          "package_name": "com.chrc.webapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947399998204-emgm5s7miu6r1a8u0tk9kdhed2vpafrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxcDf4cco3v6P-s4Lri81ynf8IIJw_Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947399998204-emgm5s7miu6r1a8u0tk9kdhed2vpafrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
